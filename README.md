@@ -20,4 +20,4 @@ Node.js v18
 npm v9
 
 
-[source repository](github.com/99yh/book-store)
+[source repository](https://www.github.com/99yh/book-store)
